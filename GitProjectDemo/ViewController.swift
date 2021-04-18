@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         print("merge")
 		print("hello I am from main branch")
     }
-    func ex(){
+    func exe(){
        print("function .....main")
         print ("from branch")
     }
