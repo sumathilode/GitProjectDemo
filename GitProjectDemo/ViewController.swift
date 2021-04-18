@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Main:Updating main branch")
         print("Hello world")
         print("merge")
+        print("hello I am from main branch")
     }
 
 
